@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 560" width="470" height="560" role="img" aria-label="Crown Packer Movers logo">
+  <rect width="470" height="560" fill="#FFFFFF"/>
+  <g transform="translate(5,20) scale(1)">
+    <path d="M22 205 C30 150 90 128 150 140" fill="none" stroke="#F29A1F" stroke-width="9" stroke-linecap="round"/>
+    <path d="M26 212 C70 290 290 292 446 252" fill="none" stroke="#F29A1F" stroke-width="9" stroke-linecap="round"/>
+    <path d="M60 236 C130 280 300 280 440 262" fill="none" stroke="#1B3A73" stroke-width="3" stroke-linecap="round"/>
+    <path d="M128 138 L222 74 L322 140" fill="none" stroke="#1B3A73" stroke-width="12"/>
+    <rect x="276" y="62" width="24" height="46" fill="#1B3A73"/>
+    <rect x="204" y="108" width="34" height="34" fill="none" stroke="#1B3A73" stroke-width="6"/>
+    <path d="M221 108 V142 M204 125 H238" stroke="#1B3A73" stroke-width="4"/>
+    <g stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round">
+      <rect x="150" y="160" width="56" height="52" fill="#F29A1F"/>
+      <path d="M150 160 L166 146 L222 146 L206 160 Z" fill="#F8C066"/>
+      <rect x="116" y="204" width="56" height="52" fill="#F29A1F"/>
+      <path d="M116 204 L132 190 L188 190 L172 204 Z" fill="#F8C066"/>
+      <rect x="170" y="208" width="68" height="50" fill="#F29A1F"/>
+      <path d="M170 208 L186 194 L254 194 L238 208 Z" fill="#F8C066"/>
+    </g>
+    <path d="M262 150 L388 150 L432 214 L436 252 L262 252 Z" fill="#1B3A73"/>
+    <path d="M352 163 L380 163 L412 208 L352 208 Z" fill="#FFFFFF"/>
+    <g stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"><path d="M244 170 H300 M236 184 H292 M246 198 H290 M254 212 H296"/></g>
+    <rect x="412" y="226" width="22" height="9" fill="#FFFFFF"/>
+    <circle cx="372" cy="258" r="19" fill="#1B3A73" stroke="#FFFFFF" stroke-width="4"/><circle cx="372" cy="258" r="7" fill="#FFFFFF"/>
+    <circle cx="292" cy="258" r="19" fill="#1B3A73" stroke="#FFFFFF" stroke-width="4"/><circle cx="292" cy="258" r="7" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Montserrat, 'Arial Black', Arial, sans-serif" text-anchor="middle">
+    <text x="235" y="420" font-size="100" font-weight="800" fill="#1B3A73" textLength="420" lengthAdjust="spacingAndGlyphs">CROWN</text>
+    <path d="M222 335 l6 -10 l7 8 l7 -8 l6 10 l-2 7 h-22 z" fill="#F29A1F" transform="translate(0,-4)"/>
+    <text x="235" y="474" font-size="42" font-weight="700" fill="#F29A1F" textLength="420" lengthAdjust="spacingAndGlyphs">PACKERS &amp; MOVERS</text>
+    <text x="235" y="528" font-size="20" font-weight="600" fill="#1B3A73" letter-spacing="4">PACK  |  MOVE  |  SETTLE</text>
+  </g>
+</svg>
